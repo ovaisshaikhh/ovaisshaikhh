@@ -25,8 +25,7 @@ Transforming design mockups and wireframes into flawless, interactive web pages 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> &nbsp;
-<img
-      src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" 
+<img   src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" 
       width="40" height="40" />  &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
