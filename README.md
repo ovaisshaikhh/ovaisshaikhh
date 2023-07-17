@@ -47,6 +47,8 @@ Transforming design mockups and wireframes into flawless, interactive web pages 
  width="48" height="48" /> &nbsp;
   <img src="/Ovais-xd.png"
  width="48" height="48" /> &nbsp;
+  <img src="/Ovais-figma.png"
+ width="48" height="48" /> &nbsp;
 </p>
 
 <br> 
