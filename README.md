@@ -19,26 +19,22 @@ Transforming design mockups and wireframes into flawless, interactive web pages 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
   <br><br>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> &nbsp;
-<img   src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" 
-      width="40" height="40" />  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> &nbsp;
-       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a>
+    <img src="/Ovais-bootstrap.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-css3.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-html5.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-Javascript.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-php.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-rails.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-wordpress.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-Shopify.png"
+ width="48" height="48" /> &nbsp;
   
 
 
