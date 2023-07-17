@@ -54,7 +54,7 @@ Transforming design mockups and wireframes into flawless, interactive web pages 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ovaisuddinshaikh" target="blank"><img align="center" src="/Ovais-linkedin.gif" alt="Ovais-linkedin" height="100" width="100" /></a>
-&nbsp;<a href="mailto:shaikhovaisuddin.96@gmail.com" target="blank"><img align="center" src="/gmail.png" alt="Ovais-Gmail" height="50" width="50" /></a>
+&nbsp;<a href="mailto:shaikhovaisuddin.96@gmail.com" target="blank"><img align="center" src="/Ovais-gmail.gif" alt="Ovais-Gmail" height="100" width="100" /></a>
  
   <br><br>
    <p align="center">
