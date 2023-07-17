@@ -37,10 +37,16 @@ Transforming design mockups and wireframes into flawless, interactive web pages 
  width="48" height="48" /> &nbsp;
   <img src="/Ovais-aws.png"
  width="48" height="48" /> &nbsp;
-  
-
-
-
+  <img src="/Ovais-ps.png"
+ width="48" height="48" /> &nbsp;
+<img src="/Ovais-illustrator.png"
+ width="48" height="48" /> &nbsp;
+<img src="/Ovais-pp.png"
+ width="48" height="48" /> &nbsp;
+<img src="/Ovais-AE.png"
+ width="48" height="48" /> &nbsp;
+  <img src="/Ovais-xd.png"
+ width="48" height="48" /> &nbsp;
 </p>
 
 <br> 
